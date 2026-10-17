@@ -1,0 +1,2 @@
+# Ifeoluwa_hathdev_classswork_design_pattern
+factory method(creational pattern)
